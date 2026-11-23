@@ -23,3 +23,4 @@ for i in range(0, 5):
     for j in range(0, 5):
         print(f"{filas_col[i][j]:02d}", end=" ")
     print()
+# esta linea fue agregada con el editor en github
