@@ -2,10 +2,11 @@
 print("modificado en mac")
 ## ubuntu
 #-----
-dtdgdhd 
+#tdgdhd 
 #-----*******
-nueva linea 
+#nueva linea 
 
-otra linea
-una mas de prueba
-lo hice en mac
+#otra linea
+#una mas de prueba
+#lo hice en mac
+# editada en visualcode en mi mac
