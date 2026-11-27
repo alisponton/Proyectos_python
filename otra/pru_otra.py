@@ -12,3 +12,4 @@ print("modificado en mac")
 # editada en visualcode en mi mac
 #otra mas editada en mac 6:35pm
 #otra linea en ubuntu 18:37
+#midifcada en mac hoy vienes 9:36
